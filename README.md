@@ -25,7 +25,7 @@ PyDelta is a Python script designed to obfuscate Python source code, making it m
 ---
 
 ### 📡 Presence
-- 🧠 Dev Interests: Reverse engineering, embedded security, smartcards, and obfuscation
+- 🧠 Dev Interests: Reverse engineering, embedded security, smartcards, and de/obfuscation
 - 🧰 Languages: C, C++, Python, (and dabbling in Rust)
 
 ---
